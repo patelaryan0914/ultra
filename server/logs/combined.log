@@ -1,0 +1,154 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:27:11.506Z"}
+{"level":"warn","message":"Route not found: GET /","timestamp":"2025-03-06T07:27:12.611Z"}
+{"level":"info","message":"- - - [06/Mar/2025:07:27:12 +0000] \"GET / HTTP/1.1\" 404 55 \"https://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0\"","timestamp":"2025-03-06T07:27:12.681Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:29:42.443Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:30:00.658Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:30:26.963Z"}
+{"level":"info","message":"Health check endpoint called","timestamp":"2025-03-06T07:31:28.115Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:07:31:28 +0000] \"GET /api/health HTTP/1.1\" 200 54 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T07:31:28.124Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:31:55.557Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:31:57.088Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:33:08.101Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:33:24.281Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:33:35.648Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:33:43.650Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:33:53.383Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:35:03.584Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:35:06.216Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:35:13.491Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:35:33.139Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:39:50.761Z"}
+{"level":"warn","message":"Route not found: GET /api/scrape","timestamp":"2025-03-06T07:40:48.645Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:07:40:48 +0000] \"GET /api/scrape HTTP/1.1\" 404 55 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T07:40:48.654Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:41:46.872Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:41:52.433Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:07:42:03 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T07:42:03.479Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:42:17.684Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:07:42:19 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 660 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T07:42:19.463Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:07:42:40 +0000] \"GET /api/scrape/data?cookie=hellooo HTTP/1.1\" 200 7 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T07:42:40.052Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:47:22.994Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:49:35.587Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:49:46.226Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:49:56.656Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:07:50:09 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 19168 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T07:50:09.313Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:51:57.856Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:52:25.373Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:52:38.611Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:53:02.388Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:53:09.317Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:53:21.085Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:53:52.884Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T07:53:56.589Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:34:13.624Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:40:07.164Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:08:42:07 +0000] \"GET /api/scrape/data HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T08:42:07.440Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:42:17.929Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:42:32.611Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:42:57.786Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:43:09.300Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:44:09.631Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:44:56.923Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:45:10.127Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:45:35.360Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:47:16.622Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:47:40.044Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:48:21.549Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T08:48:27.137Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:07:15.099Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:07:21.386Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:07:37.768Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:07:45.958Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:08:10.899Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:08:16.661Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:15:17.153Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:15:48.485Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:16:13.155Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:16:15.927Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:16:23 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 19168 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T09:16:23.415Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:16:43.975Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:16:59.228Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:17:39.751Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:17:55.527Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:18:21.840Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:18:26.638Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:18:34 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 19172 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T09:18:34.577Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:19:16.179Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:19:33.252Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:21:55 +0000] \"GET /api/scrape/data HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T09:21:55.964Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:22:29.488Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:22:57 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 871505 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T09:22:57.289Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:23:34.688Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:23:52.255Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:24:30.407Z"}
+{"level":"warn","message":"Route not found: GET /robots.txt","timestamp":"2025-03-06T09:32:14.807Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:32:14 +0000] \"GET /robots.txt HTTP/1.1\" 404 55 \"-\" \"axios/1.7.7\"","timestamp":"2025-03-06T09:32:14.816Z"}
+{"level":"warn","message":"Route not found: GET /api/scrape/data/sitemap.xml","timestamp":"2025-03-06T09:32:15.836Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:32:15 +0000] \"GET /api/scrape/data/sitemap.xml HTTP/1.1\" 404 55 \"-\" \"axios/1.7.7\"","timestamp":"2025-03-06T09:32:15.837Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:33:43 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 39 \"-\" \"axios/1.7.7\"","timestamp":"2025-03-06T09:33:43.420Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:45:49.361Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:46:22 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 39 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T09:46:22.652Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T09:46:49.448Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:09:47:14 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 871413 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T09:47:14.557Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:33:37.532Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:33:41.766Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:34:50.283Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:34:58.376Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:35:07.615Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:35:15.302Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:36:28.164Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:37:05.503Z"}
+{"level":"error","message":"Error scraping data: scrapeData is not defined","stack":"ReferenceError: scrapeData is not defined\n    at exports.scrapeData (C:\\Users\\aryan.p\\Desktop\\ultra\\server\\controllers\\scrape.controller.js:72:46)","timestamp":"2025-03-06T10:37:32.270Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:10:37:32 +0000] \"GET /api/scrape/data HTTP/1.1\" 500 33 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T10:37:32.280Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:38:23.933Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:10:38:48 +0000] \"GET /api/scrape/data HTTP/1.1\" 200 39 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T10:38:48.852Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:38:49.804Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:38:58.170Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:40:45.167Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:40:48.850Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:44:01.405Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:45:31.785Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:45:52.773Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:46:34.074Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:47:01.082Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:48:15.196Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:10:48:24 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T10:48:24.894Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:50:01.487Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:50:18.116Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:10:50:20 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T10:50:20.972Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:51:45.462Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:10:53:00 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T10:53:00.999Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:53:19.097Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T10:59:44.510Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:00:06.357Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:00:22.009Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:00:53.981Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:00:59.537Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:01:13 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:01:13.256Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:13:30.193Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:13:37.700Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:14:06 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:14:06.644Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:19:21.583Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:19:24.399Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:19:33 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:19:33.316Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:20:11.771Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:20:19 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:20:19.142Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:21:16.623Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:21:23 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:21:23.435Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:23:16.708Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:23:24.215Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:23:27.921Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:23:34 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:23:34.627Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:24:36.317Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:24:39 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:24:39.643Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:25:09.824Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:25:12 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:25:12.164Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:26:35.961Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:26:43 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:26:43.289Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:26:57.419Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:27:19.731Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:27:21 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:27:21.934Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:27:42.759Z"}
+{"level":"info","message":"::1 - - [06/Mar/2025:11:28:11 +0000] \"GET /api/scrape/upload HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-06T11:28:11.892Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:32:21.419Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T11:32:50.208Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-03-06T12:06:10.488Z"}
